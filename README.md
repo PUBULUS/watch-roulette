@@ -1,13 +1,8 @@
-# Watch Roulette PWA
+# Watch Roulette PWA v2.1
 
-Primera versión de la app:
-- categorías Trabajo/Daily/Vestir/Casual
-- categorías adicionales
-- relojes con múltiples categorías
-- ruleta animada
-- reparto de uso favoreciendo los menos usados
-- guardado local
-- instalación como PWA
-- caché offline
+Incluye migracion automatica desde v1 y una coleccion inicial con los relojes conocidos del usuario. No se incluye el GMT en construccion.
 
-Para probarla: `python -m http.server 8080` desde esta carpeta y abre `http://localhost:8080`.
+Seed: Seiko 5 6119; Camy Montego 7649; Camy Prima; Camy Starjet; PUBULUS Batman; G-Shock GA-2100 Manga Azul; Casio MRW-200H; Timex Ocean; Festina F20695/4; Homage JLC Reverso.
+
+
+Actualización de colección: eliminado Camy Starjet (no comprado), corregido Camy Prima a Cauny Prima y añadido Festina F20709/1.
